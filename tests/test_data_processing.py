@@ -104,3 +104,5 @@ def test_normalize_columns(sample_df):
     df = normalize_columns(df, columns=['Amount'])
     assert df['Amount'].max() <= 1
     assert df['Amount'].min() >= 0
+
+

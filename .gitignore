@@ -194,3 +194,8 @@ cython_debug/
 .cursorindexingignore
 data
 data/processed/
+mlruns
+logs
+api
+plots
+frash

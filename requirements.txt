@@ -15,3 +15,6 @@ uvicorn
 pydantic
 xverse
 woe
+imbalanced-learn
+mlflow
+pytest
